@@ -3,6 +3,7 @@
 ## Description
 
 This is a very barebone clone of the popular online video-sharing platform Youtube. This application replicates the basic features and functionalities of YouTube. It aims to provide a similar video-sharing platform for the user. 
+See [Live Demo](https://rbvideos.netlify.app/).
 
 ### Features
 
@@ -16,6 +17,30 @@ This is a very barebone clone of the popular online video-sharing platform Youtu
 - RapidAPI
 - MUI
 - Axios
+
+### How to setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
+
+### Lints and fixes files
+
+```
+npm run lint
+```
 
 ### To do
 
