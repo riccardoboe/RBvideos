@@ -31,6 +31,15 @@ npm install
 npm start
 ```
 
+#### Set environment variables
+
+- Create .env file inside the root directory.
+- Find and copy your 'X-RapidAPI-Key' from: https://rapidapi.com/ytdlfree/api/youtube-v31/
+- Paste this in your .env file with the key inside the quotation marks.
+```
+REACT_APP_RAPID_API_KEY=" " 
+```
+
 ### To do
 
 - Sign in / Sign up functionality.
