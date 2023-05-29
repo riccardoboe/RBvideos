@@ -3,7 +3,7 @@
 ## Description
 
 This is a very barebone clone of the popular online video-sharing platform Youtube. This application replicates the basic features and functionalities of YouTube. It aims to provide a similar video-sharing platform for the user. 
-<a href="(https://rbvideos.netlify.app/)" target="_blank"> Live Demo </a>
+<a href="https://rbvideos.netlify.app/" target="_blank"> Live Demo </a>
 
 ### Features
 
